@@ -6,8 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshendu341" alt="harshendu341" /></a> </p>
 
-- 🔭My current project is [Podcastify](https://github.com/harshendu341/podcast-player)
-- 
+- 🔭I'm currently working on [Podcastify](https://github.com/harshendu341/podcast-player)
+
 - 🔭My previous project was titled [U-CRIC](https://github.com/harshendu341/U-CRIC)
 
 - 🌱 I’m currently learning development of **ReactJS Application**
