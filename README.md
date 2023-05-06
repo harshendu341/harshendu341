@@ -10,9 +10,9 @@
 - 
 - 🔭My previous project was titled [U-CRIC](https://github.com/harshendu341/U-CRIC)
 
-- 🌱 I’m currently learning **Django and ReactJS**
+- 🌱 I’m currently learning development of **ReactJS Application**
 
-- 🤝 I would love to collaborate on projects involving **Backend Development**
+- 🤝 I would love to collaborate on projects involving **Full Stack Web Development**
 
 - 💬 Up for talks on **Arduino based IoT models and Relational Databases**
 
