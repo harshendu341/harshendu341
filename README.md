@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshendu341" alt="harshendu341" /></a> </p>
 
-- 🔭My current project is titled [U-CRIC](https://github.com/harshendu341/U-CRIC)
+- 🔭My current project is titled [U-CRIC](https://github.com/harshendu341/Podcastify)
 
 - 🌱 I’m currently learning **Django and ReactJS**
 
